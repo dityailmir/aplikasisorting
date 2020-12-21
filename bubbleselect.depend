@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608518052 source:c:\users\lenovo\documents\coding\tubesaka\bubbleselect\bubbleselect.cpp
+	<iostream>
+	"bubbbleselect.h"
+
+1608518052 c:\users\lenovo\documents\coding\tubesaka\bubbleselect\bubbbleselect.h
+
+1608518253 source:c:\users\lenovo\documents\coding\tubesaka\bubbleselect\main.cpp
+	<iostream>
+	"bubbbleselect.h"
+
